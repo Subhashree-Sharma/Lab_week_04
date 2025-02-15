@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ed3d18a-70c7-41c3-98ca-a35860b6b4c6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/UncheckedException_RuntimeException/Runtime_Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/com/UncheckedException_RuntimeException/Runtime_Exception.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2t1BfitbPekjusv3WTWQoEBxVv3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Day__04&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ss587/Downloads/Capgemini_files2/Week04/Day_04/src/main/java/org/example/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.BankTransactionSystem">
+    <configuration name="BankTransactionSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.com.BankTransactionSystem_CheckedAndCustomException.BankTransactionSystem" />
+      <module name="Day_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.com.BankTransactionSystem_CheckedAndCustomException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionPropagation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.com.throwVsthrows_ExceptionPropagation.ExceptionPropagation" />
+      <module name="Day_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.com.throwVsthrows_ExceptionPropagation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinallyBlockExecution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.com.FinallyBlockExecution.FinallyBlockExecution" />
+      <module name="Day_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.com.FinallyBlockExecution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nested_TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.com.Nested_TryCatchBlock.Nested_TryCatch" />
+      <module name="Day_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.com.Nested_TryCatchBlock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.com.ExceptionPropagationInMethods.ExceptionPropagation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.com.ExceptionPropagationInMethods.ExceptionPropagation" />
+      <module name="Day_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.com.ExceptionPropagationInMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BankTransactionSystem" />
+        <item itemvalue="Application.Nested_TryCatch" />
+        <item itemvalue="Application.org.example.com.ExceptionPropagationInMethods.ExceptionPropagation" />
+        <item itemvalue="Application.FinallyBlockExecution" />
+        <item itemvalue="Application.ExceptionPropagation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ed3d18a-70c7-41c3-98ca-a35860b6b4c6" name="Changes" comment="" />
+      <created>1739509808353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739509808353</updated>
+    </task>
+    <servers />
+  </component>
+</project>

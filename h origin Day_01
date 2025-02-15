@@ -1,0 +1,39 @@
+[33m68b9c5f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: checkout: moving from main to main
+[33m68b9c5f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{1}: reset: moving to HEAD~1
+[33mfa411ff[m HEAD@{2}: checkout: moving from Day_04 to main
+[33mac55e91[m[33m ([m[1;32mDay_04[m[33m)[m HEAD@{3}: commit: Saving changes before switching to main
+[33m8ba09cd[m[33m ([m[1;31morigin/Day_04[m[33m)[m HEAD@{4}: commit: [Subhashree Sharma] Added BankTransactionSystem_CheckedAndCustomException of Day_04 (14/feb)
+[33mee33511[m HEAD@{5}: commit: [Subhashree Sharma] Added Nested_TryCatchBlock of Day_04 (14/feb)
+[33mbb4b072[m HEAD@{6}: commit: [Subhashree Sharma] Added ExceptionPropagationInMethods of Day_04 (14/feb)
+[33me535ecc[m HEAD@{7}: commit: [Subhashree Sharma] Added FinallyBlockExecution of Day_04 (14/feb)
+[33m0eb3757[m HEAD@{8}: commit: [Subhashree Sharma] Added throwVsthrows_ExceptionPropagation of Day_04 (14/feb)
+[33ma261b0b[m HEAD@{9}: commit: [Subhashree Sharma] Added TryWithResources_AutoClosingResources of Day_04 (14/feb)
+[33md5cbff0[m HEAD@{10}: commit: [Subhashree Sharma] Added MultipleCatchBlocks of Day_04 (14/feb)
+[33m967279d[m HEAD@{11}: commit: [Subhashree Sharma] Added CustomException_UserdefinedException of Day_04 (14/feb)
+[33m3206ace[m HEAD@{12}: commit: [Subhashree Sharma] Added UncheckedException_RuntimeException of Day_04 (14/feb)
+[33md9b2453[m HEAD@{13}: commit: [Subhashree Sharma] Added CheckedException_CompileTimeException of Day_04 (14/feb)
+[33mfa411ff[m HEAD@{14}: checkout: moving from main to Day_04
+[33mfa411ff[m HEAD@{15}: checkout: moving from main to main
+[33mfa411ff[m HEAD@{16}: checkout: moving from Day_04 to main
+[33m6945a45[m HEAD@{17}: commit: [Subhashree Sharma] Added CheckedException_Compile_TimeException of Day_04 (14/feb)
+[33mfa411ff[m HEAD@{18}: checkout: moving from main to Day_04
+[33mfa411ff[m HEAD@{19}: checkout: moving from Day_03 to main
+[33m63e9c34[m[33m ([m[1;31morigin/Day_03[m[33m, [m[1;32mDay_03[m[33m)[m HEAD@{20}: commit: [Subhashree Sharma] Added CountWordsInAFile of Day_03(13/feb)
+[33m4624a0a[m HEAD@{21}: commit: [Subhashree Sharma] Added ReadALargeFileLineByLine of Day_03(13/feb)
+[33m18f311e[m HEAD@{22}: commit: [Subhashree Sharma] Added Inter_ThreadCommunication of Day_03(13/feb)
+[33m905e76e[m HEAD@{23}: commit: [Subhashree Sharma] Added DataStreams_StoreAndRetrievePrimitiveData of Day_03(13/feb)
+[33m933002e[m HEAD@{24}: commit: [Subhashree Sharma] Added FilterStreams_ConvertUppercaseToLowercase of Day_03(13/feb)
+[33mc2cca85[m HEAD@{25}: commit: [Subhashree Sharma] Added ByteArrayStream_ConvertImageToByteArray of Day_03(13/feb)
+[33ma51f493[m HEAD@{26}: commit: [Subhashree Sharma] Added Serialization_SaveAndRetrieveAnObject of Day_03(13/feb)
+[33ma7ff987[m HEAD@{27}: commit: [Subhashree Sharma] Added ReadUserInputFromConsole of Day_03(13/feb)
+[33m70f2685[m HEAD@{28}: commit: [Subhashree Sharma] Added EfficientFileCopy of Day_03(13/feb)
+[33meeaa783[m HEAD@{29}: commit: [Subhashree Sharma] Added FileHandling_ReadAndWriteATextFile of Day_03(13/feb)
+[33mfa411ff[m HEAD@{30}: checkout: moving from main to Day_03
+[33mfa411ff[m HEAD@{31}: checkout: moving from Day_02 to main
+[33mca1a4bc[m[33m ([m[1;31morigin/Day_02[m[33m, [m[1;32mDay_02[m[33m)[m HEAD@{32}: commit: [Subhashree Sharma] Added Day_02 of Week_04 (12/feb)
+[33mfa411ff[m HEAD@{33}: checkout: moving from main to Day_02
+[33mfa411ff[m HEAD@{34}: checkout: moving from Day_01 to main
+[33mc0a54c3[m[33m ([m[1;31morigin/Day_01[m[33m, [m[1;32mDay_01[m[33m)[m HEAD@{35}: cherry-pick: [Subhashree Sharma] Added Day_01 of Week_04 (11/Feb)
+[33m68b9c5f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{36}: checkout: moving from main to Day_01
+[33mfa411ff[m HEAD@{37}: commit: [Subhashree Sharma] Added Day_01 of Week_04 (11/Feb)
+[33m68b9c5f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{38}: commit (initial): first commit
