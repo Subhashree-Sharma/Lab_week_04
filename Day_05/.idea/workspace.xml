@@ -5,7 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c90d3bd-1eeb-4bd9-a4fd-219266831ec5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Day_04/src/main/java/org/example/com/UncheckedException_RuntimeException/Runtime_Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_04/src/main/java/org/example/com/UncheckedException_RuntimeException/Runtime_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/AdvancedProblems/ExtractCurrencyValuesFromAText/ExtractCurrencyValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/AdvancedProblems/ExtractProgrammingLanguageNamesFromText/ExtractProgrammingLanguageNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/AdvancedProblems/FindRepeatingWordsInASentence/RepeatingWordsInSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/AdvancedProblems/ValidateACreditCardNumber/ValidateCreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/AdvancedProblems/ValidateASocialSecurityNumber/ValidateSocialSecurityNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/AdvancedProblems/ValidateAnIPAddress/ValidateIPAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/BasicRegexProblems/ValidateAHexColorCode/ValidateHexColorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/BasicRegexProblems/ValidateALicensePlateNumber/ValidateLicensePlateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/BasicRegexProblems/ValidateAUsername/ValidateAUsername.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/ExtractionProblems/ExtractAllCapitalizedWordsFromASentence/ExtractAllCapitalizedWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/ExtractionProblems/ExtractAllEmailAddressesFromAText/ExtractAllEmailAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/ExtractionProblems/ExtractDatesInSpecificFormat/ExtractDatesInSpecificFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/ExtractionProblems/ExtractLinksFromAWebPage/ExtractLinksFromWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/ReplaceAndModifyStrings/CensorBadWordsInASentence/CensorBadWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/ReplaceAndModifyStrings/ReplaceMultipleSpacesWithASingleSpace/ReplaceMultipleSpaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/com/AdvancedProblems/ExtractCurrencyValuesFromAText/ExtractCurrencyValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/com/AdvancedProblems/ExtractCurrencyValuesFromAText/ExtractCurrencyValues.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/com/AdvancedProblems/ExtractProgrammingLanguageNamesFromText/ExtractProgrammingLanguageNames.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/com/AdvancedProblems/ExtractProgrammingLanguageNamesFromText/ExtractProgrammingLanguageNames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/com/AdvancedProblems/FindRepeatingWordsInASentence/RepeatingWordsInSentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/com/AdvancedProblems/FindRepeatingWordsInASentence/RepeatingWordsInSentence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/com/AdvancedProblems/ValidateACreditCardNumber/ValidateCreditCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/com/AdvancedProblems/ValidateACreditCardNumber/ValidateCreditCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/com/AdvancedProblems/ValidateAnIPAddress/ValidateIPAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/com/AdvancedProblems/ValidateAnIPAddress/ValidateIPAddress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/com/BasicRegexProblems/ValidateAHexColorCode/ValidateHexColorCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/com/BasicRegexProblems/ValidateAHexColorCode/ValidateHexColorCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/com/BasicRegexProblems/ValidateALicensePlateNumber/ValidateLicensePlateNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/com/BasicRegexProblems/ValidateALicensePlateNumber/ValidateLicensePlateNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/com/BasicRegexProblems/ValidateAUsername/ValidateAUsername.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/com/BasicRegexProblems/ValidateAUsername/ValidateAUsername.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,37 +70,12 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Day__04&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ss587/Downloads/Capgemini_files2/Week04/Day_05&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ss587/Downloads/Capgemini_files2/Week04/Day_05/src/main/java/org/example/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ValidateSocialSecurityNumber">
-    <configuration name="CensorBadWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.com.BasicRegexProblems.ReplaceAndModifyStrings.CensorBadWordsInASentence.CensorBadWords" />
-      <module name="Day_05" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.com.BasicRegexProblems.ReplaceAndModifyStrings.CensorBadWordsInASentence.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExtractCurrencyValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.com.AdvancedProblems.ExtractCurrencyValuesFromAText.ExtractCurrencyValues" />
-      <module name="Day_05" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.com.AdvancedProblems.ExtractCurrencyValuesFromAText.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ValidateAUsername">
     <configuration name="RepeatingWordsInSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.com.AdvancedProblems.FindRepeatingWordsInASentence.RepeatingWordsInSentence" />
       <module name="Day_05" />
@@ -83,12 +89,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidateCreditCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.com.AdvancedProblems.ValidateACreditCardNumber.ValidateCreditCard" />
+    <configuration name="ValidateAUsername" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.com.BasicRegexProblems.ValidateAUsername.ValidateAUsername" />
       <module name="Day_05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.com.AdvancedProblems.ValidateACreditCardNumber.*" />
+          <option name="PATTERN" value="org.example.com.BasicRegexProblems.ValidateAUsername.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateHexColorCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.com.BasicRegexProblems.ValidateAHexColorCode.ValidateHexColorCode" />
+      <module name="Day_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.com.BasicRegexProblems.ValidateAHexColorCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateLicensePlateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.com.BasicRegexProblems.ValidateALicensePlateNumber.ValidateLicensePlateNumber" />
+      <module name="Day_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.com.BasicRegexProblems.ValidateALicensePlateNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidateSocialSecurityNumber" />
+        <item itemvalue="Application.ValidateAUsername" />
+        <item itemvalue="Application.ValidateLicensePlateNumber" />
+        <item itemvalue="Application.ValidateHexColorCode" />
         <item itemvalue="Application.RepeatingWordsInSentence" />
-        <item itemvalue="Application.ExtractCurrencyValues" />
-        <item itemvalue="Application.ValidateCreditCard" />
-        <item itemvalue="Application.CensorBadWords" />
+        <item itemvalue="Application.ValidateSocialSecurityNumber" />
       </list>
     </recent_temporary>
   </component>
