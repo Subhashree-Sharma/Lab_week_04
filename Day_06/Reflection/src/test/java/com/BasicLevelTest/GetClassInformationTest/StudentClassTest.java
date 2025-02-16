@@ -1,4 +1,4 @@
-package com.BasicLevel.GetClassInformationTest;
+package com.BasicLevelTest.GetClassInformationTest;
 import org.example.com.BasicLevel.GetClassInformation.StudentClass;
 import org.junit.jupiter.api.Test;
 

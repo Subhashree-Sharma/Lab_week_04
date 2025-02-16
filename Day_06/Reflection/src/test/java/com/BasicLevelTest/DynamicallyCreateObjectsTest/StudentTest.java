@@ -1,4 +1,4 @@
-package com.BasicLevel.DynamicallyCreateObjectsTest;
+package com.BasicLevelTest.DynamicallyCreateObjectsTest;
 
 import org.example.com.BasicLevel.DynamicallyCreateObjects.Student;
 import org.junit.jupiter.api.Test;

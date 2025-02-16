@@ -1,4 +1,4 @@
-package com.BasicLevel.InvokePrivateMethodTest;
+package com.BasicLevelTest.InvokePrivateMethodTest;
 import org.example.com.BasicLevel.InvokePrivateMethod.Calculator;
 import org.junit.jupiter.api.Test;
 import java.lang.reflect.Method;

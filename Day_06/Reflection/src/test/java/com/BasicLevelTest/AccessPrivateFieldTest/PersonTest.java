@@ -1,4 +1,4 @@
-package com.BasicLevel.AccessPrivateFieldTest;
+package com.BasicLevelTest.AccessPrivateFieldTest;
 import org.example.com.BasicLevel.AccessPrivateField.*;
 import org.junit.jupiter.api.Test;
 import java.lang.reflect.Field;
