@@ -1,4 +1,4 @@
-package com.CustomAnnotationsTest.BeginnerLevelTest;
+package com.CustomAnnotationsTest.BeginnerLevelTest.CreateAnAnnotationToMarkImpMethodsTest;
 import org.example.com.CustomAnnotations.BeginnerLevel.CreateAnAnnotationToMarkImpMethods.ImportantMethod;
 import org.example.com.CustomAnnotations.BeginnerLevel.CreateAnAnnotationToMarkImpMethods.TaskProcessor;
 import org.junit.jupiter.api.Test;
