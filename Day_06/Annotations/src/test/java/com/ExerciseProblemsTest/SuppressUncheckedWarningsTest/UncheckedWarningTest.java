@@ -1,4 +1,4 @@
-package com.SuppressUncheckedWarningsTest;
+package com.ExerciseProblemsTest.SuppressUncheckedWarningsTest;
 import org.example.com.ExerciseProblems.SuppressUncheckedWarnings.UncheckedWarning;
 import org.junit.jupiter.api.Test;
 import java.util.ArrayList;

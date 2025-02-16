@@ -1,4 +1,4 @@
-package com.UseOverrideCorrectlyTest;
+package com.ExerciseProblemsTest.UseOverrideCorrectlyTest;
 import org.example.com.ExerciseProblems.UseOverrideCorrectly.Animal;
 import org.example.com.ExerciseProblems.UseOverrideCorrectly.Dog;
 import org.junit.jupiter.api.Test;

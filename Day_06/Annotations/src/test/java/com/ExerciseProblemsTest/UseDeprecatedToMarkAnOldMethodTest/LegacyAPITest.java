@@ -1,4 +1,4 @@
-package com.UseDeprecatedToMarkAnOldMethodTest;
+package com.ExerciseProblemsTest.UseDeprecatedToMarkAnOldMethodTest;
 import org.example.com.ExerciseProblems.UseDeprecatedToMarkAnOldMethod.LegacyAPI;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

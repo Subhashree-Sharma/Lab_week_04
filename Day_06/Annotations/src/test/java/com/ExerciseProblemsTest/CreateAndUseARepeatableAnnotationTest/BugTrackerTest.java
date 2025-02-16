@@ -1,4 +1,4 @@
-package com.CreateAndUseARepeatableAnnotationTest;
+package com.ExerciseProblemsTest.CreateAndUseARepeatableAnnotationTest;
 import org.example.com.ExerciseProblems.CreateAndUseARepeatableAnnotation.BugReport;
 import org.example.com.ExerciseProblems.CreateAndUseARepeatableAnnotation.BugTracker;
 import org.junit.jupiter.api.Test;

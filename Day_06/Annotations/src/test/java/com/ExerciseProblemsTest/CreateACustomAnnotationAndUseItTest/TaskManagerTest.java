@@ -1,4 +1,4 @@
-package com.CreateACustomAnnotationAndUseItTest;
+package com.ExerciseProblemsTest.CreateACustomAnnotationAndUseItTest;
 
 import org.example.com.ExerciseProblems.CreateACustomAnnotationAndUseIt.TaskInfo;
 import org.example.com.ExerciseProblems.CreateACustomAnnotationAndUseIt.TaskManager;
